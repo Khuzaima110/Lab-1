@@ -54,3 +54,5 @@ Q9. What I did first was to bring a circle in and make it visible, turn it yello
 I then added a triangle and then I made it green, moved it higher and a bit closer to the corner and turned it green.
 I added a square and made it bigger, turned it red and moved it right under the triangle, while barely touching the triangle.
 I then added another sqaure and made it smaller, turned it black, moved it inside the red square near the corner.
+This could be done differently, but if I had other shapes
+
