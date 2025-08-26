@@ -42,4 +42,11 @@ A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
 
-qwq
+Part III Chapter 1:
+
+Q2. When I moveDown twice, the circle goes down twice, but when I do it three times then it goes down three times.
+When I makeInvisible twice, the first time it makes it invisible but the second time nothing happens because it is already invisible.
+
+Q3. I can use moveHorizontal 70 pixels to the left by inputing the value as a negative number instead of a positive.
+So instead of putting 70, you put -70.
+
