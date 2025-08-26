@@ -50,3 +50,7 @@ When I makeInvisible twice, the first time it makes it invisible but the second 
 Q3. I can use moveHorizontal 70 pixels to the left by inputing the value as a negative number instead of a positive.
 So instead of putting 70, you put -70.
 
+Q9. What I did first was to bring a circle in and make it visible, turn it yellow, and move it near the corner.
+I then added a triangle and then I made it green, moved it higher and a bit closer to the corner and turned it green.
+I added a square and made it bigger, turned it red and moved it right under the triangle, while barely touching the triangle.
+I then added another sqaure and made it smaller, turned it black, moved it inside the red square near the corner.
